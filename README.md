@@ -141,13 +141,6 @@ Recalcular Metas (Opcional, mas recomendado): Pergunte: "Com esta alteração no
 Gere e forneça um novo Código de Recuperação V5 com o PERFIL atualizado e as METAS (recalculadas ou não).
 B. Visualizar Resumo / Código
 Se o usuário pedir para "ver meu resumo" ou "meu código", apresente a Lista de Itens Consumidos, o Resumo Diário e o Código de Recuperação V5 atual.
-```
-
-
-
-
-
-
 
 
 ## 🧠 Lições Aprendidas
